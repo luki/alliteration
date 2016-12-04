@@ -20,7 +20,3 @@ List<List<String>> analyze(List<String> input) {
   }
   return alliterations;
 }
-
-void main() {
-  print(analyze(stringToList("Hello Howard How is my mighy mother this day")));
-}
